@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/sana-saghir/static/css/main.b1fe31b9.css",
+    "main.js": "/sana-saghir/static/js/main.777c9b3d.js",
+    "static/js/787.1ed0c42c.chunk.js": "/sana-saghir/static/js/787.1ed0c42c.chunk.js",
+    "static/media/foodSite.png": "/sana-saghir/static/media/foodSite.418c6ab70ce48d3579d7.png",
+    "static/media/cv.pdf": "/sana-saghir/static/media/cv.64dcd09395005a5faf28.pdf",
+    "static/media/fa-solid-900.ttf": "/sana-saghir/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
+    "static/media/project1.png": "/sana-saghir/static/media/project1.29c7536a3e6d7121489e.png",
+    "static/media/danceSite.png": "/sana-saghir/static/media/danceSite.11151077534eab05193a.png",
+    "static/media/musicApp.png": "/sana-saghir/static/media/musicApp.dca6f7b88db91dc4d587.png",
+    "static/media/form.png": "/sana-saghir/static/media/form.e8a777aa3969bf984178.png",
+    "static/media/fa-brands-400.ttf": "/sana-saghir/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
+    "static/media/fa-solid-900.woff2": "/sana-saghir/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
+    "static/media/fa-brands-400.woff2": "/sana-saghir/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
+    "static/media/companySite.png": "/sana-saghir/static/media/companySite.5881433cbe57063650f7.png",
+    "static/media/blog.png": "/sana-saghir/static/media/blog.52481a58495d17ac9ac7.png",
+    "static/media/fa-regular-400.ttf": "/sana-saghir/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
+    "static/media/cronaSite.png": "/sana-saghir/static/media/cronaSite.ba798af149792c4bf531.png",
+    "static/media/mainImage.jpg": "/sana-saghir/static/media/mainImage.8726b96640f8539f5274.jpg",
+    "static/media/fa-regular-400.woff2": "/sana-saghir/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
+    "static/media/aboutGirl.jpg": "/sana-saghir/static/media/aboutGirl.7ecb39026646b3735c59.jpg",
+    "static/media/fa-v4compatibility.ttf": "/sana-saghir/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
+    "static/media/fa-v4compatibility.woff2": "/sana-saghir/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
+    "index.html": "/sana-saghir/index.html",
+    "main.b1fe31b9.css.map": "/sana-saghir/static/css/main.b1fe31b9.css.map",
+    "main.777c9b3d.js.map": "/sana-saghir/static/js/main.777c9b3d.js.map",
+    "787.1ed0c42c.chunk.js.map": "/sana-saghir/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1fe31b9.css",
+    "static/js/main.777c9b3d.js"
+  ]
+}
