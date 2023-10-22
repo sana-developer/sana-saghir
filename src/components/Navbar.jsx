@@ -47,9 +47,9 @@ function Navbar() {
           </div>
           <div className='mr-6 ml-18 px-2'>
               <Link to='contact' smooth={true} duration={500}>
-              <button className='bg-gray-800 rounded-lg px-2 py-1'
+              <button className='bg-black rounded-lg px-2 py-1'
               style={{
-                backgroundColor: '#353430',
+                backgroundColor: 'black',
                 color: 'white',
                 cursor: 'pointer'}}
               >Contact</button>

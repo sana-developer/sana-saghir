@@ -28,7 +28,7 @@ function ProjectCard(props) {
             <a href={props.demo} target="_blank">
               <button className='bg-gray-800 rounded-md px-10 py-2'
               style={{
-                backgroundColor: '#05b890',
+                backgroundColor: '#6049f9',
                 color: 'white',
                 cursor: 'pointer',
                 fontSize: '15px'}}

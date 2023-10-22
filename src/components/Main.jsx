@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react';
 import Typed from 'typed.js'; // Import Typed.js library
 import {Link} from 'react-scroll'
-import Image from '../assets/mainImage.png'
+import Image from '../assets/mainImage.jpg'
 
 function Main() {
     let typed = null; // Define the typed variable
@@ -25,7 +25,7 @@ function Main() {
 
   return (
     <div className='flex main' id='home'>
-      <div className='w-1/2 pl-14 mt-14 ml-4 mr-2 main-text'>
+      <div className='w-1/2 pl-14 ml-4 mr-2 main-text'>
         <div className='my-5'><p>Hey There,</p></div>
         <div className='bold'>I'M <span className='name'>SANA SAGHIR</span></div>
         <div className='bold typed-text'>
@@ -40,7 +40,7 @@ function Main() {
         <Link to='contact' smooth={true} duration={500}>
             <button className='bg-gray-800 rounded-md px-10 py-2'
               style={{
-                backgroundColor: '#353430',
+                backgroundColor: 'black',
                 color: 'white',
                 cursor: 'pointer',
                 fontSize: '15px'}}
