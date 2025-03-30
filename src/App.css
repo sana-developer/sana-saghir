@@ -29,12 +29,13 @@ li.active{
 #home{
   margin-top: 4rem;
 }
-.main{
-  color: black;
-    /* height: 85vh; */
+
+/* .main{
+    color: black;
+    height: 85vh;
     top: 10vh;
     position: relative;
-}
+} */
 
 .img-part{
   width: 45%;
@@ -42,9 +43,6 @@ li.active{
 .text-part{
   width: 55%;
   padding-right: 6vw;
-}
-img{
-  width: 100% !important;
 }
 .h-14rem{
   height: 7rem;
@@ -103,7 +101,7 @@ img{
   margin: 33px 0px;
 }
 .social{
-  width: 42%;
+  width: 56%;
   justify-self: left;
   text-align: center;
   display: flex;

@@ -14,7 +14,7 @@ body{
 
  */
  @media screen and (min-width: 1150px) {
-    body {
+    /* body {
       font-size: 2vw !important;
     }
     .logo{
@@ -25,7 +25,7 @@ body{
     }
     button{
         font-size: 2vw !important;
-    }
+    } */
     #about{
         padding-bottom: 4vw;
     }
@@ -44,22 +44,8 @@ body{
   }
   /* 894 */
   @media screen and (max-width: 894px) {
-    .main{
-        height: 28rem;
-    }
     .main-p{
         margin-right: 8vw !important;  
-    }
-    .main-text{
-        position: absolute;
-        left: 0;
-        z-index: 1;
-        width: 65% !important;    
-    }
-    .main-img{
-        position: absolute;
-        right: 0;
-        width: 45% !important;
     }
     .text-part{
         position: absolute;
@@ -123,14 +109,19 @@ body{
         margin: 0px !important;
         padding: 0px !important;
     }
+    #home{
+        flex-direction: column-reverse;
+    }
     .main-img {
-        width: 100% !important;
-        opacity: 0.5;
-        height: 100% !important;
+        width: 100%;
+        margin-top: 66px;
     }
     .main-text{
         width: 100% !important;
         margin-left: 0px !important;
+    }
+    .img-part{
+        display: none;
     }
     .card-project h2 {
         font-size: 6.9vw !important;

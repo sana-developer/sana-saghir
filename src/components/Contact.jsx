@@ -28,15 +28,15 @@ function Contact() {
           <div className='flex items-center foot'>
           <div className='mt-2 mb-4 ml-2'><i className="fa-regular fa-envelope mr-2" style={{color: "#000000"}}></i>sanasaghir979@gmail.com</div>
           <div className='social'>
-          <a href="https://www.linkedin.com/in/sana-saghir-83bb24249/" target='_blank'>
+          <a href="https://www.linkedin.com/in/sana-saghir-b271a4359/" target='_blank'>
           <i className="fa-brands fa-linkedin mr-2" style={{color: "#000000"}}></i>
           </a>
           
           <a href="https://twitter.com/SanaSaghir58211" target='_blank'>
           <i className="fa-brands fa-twitter mr-2" style={{color: "#000000"}}></i>
           </a>
-          <a href="https://www.facebook.com/profile.php?id=100095410369023" target='_blank'>
-          <i className="fa-brands fa-facebook mr-2" style={{color: "#000000"}}></i>
+          <a href="https://github.com/sana-developer" target='_blank'>
+          <i className="fa-brands fa-github mr-2" style={{ color: "#000000" }}></i>
           </a></div>
           </div>
           

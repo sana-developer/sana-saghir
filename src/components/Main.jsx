@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react';
 import Typed from 'typed.js'; // Import Typed.js library
 import {Link} from 'react-scroll'
-import Image from '../assets/mainImage.jpg'
+import Image from '../assets/prfile.jpg'
 
 function Main() {
     let typed = null; // Define the typed variable
@@ -24,14 +24,14 @@ function Main() {
     }, []);
 
   return (
-    <div className='flex main' id='home'>
+    <div className='flex main py-8' id='home'>
       <div className='w-1/2 pl-14 ml-4 mr-2 main-text'>
         <div className='my-5'><p>Hey There,</p></div>
         <div className='bold'>I'M <span className='name'>SANA SAGHIR</span></div>
         <div className='bold typed-text'>
             <span className='input'>Full Stack Developer |</span>
         </div>
-        <div className='py-4 main-p'><p>I'm a Software Engineering student with a strong academic background, passionate about web development. Ready to make an impact as a full-stack developer. Let's create together!</p></div>
+        <div className='py-4 main-p'><p>I'm a Software Engineer with a strong foundation in web development, passionate about building impactful full-stack applications. Let's create together!</p></div>
         <Link to='about' smooth={true} duration={500}>
         <div className="btn py-4 px-1 font-semibold cursor-pointer"><span className='circle'>&nbsp;&nbsp;Ab</span>out Me&nbsp; &gt;
         </div>
@@ -49,8 +49,8 @@ function Main() {
         </div>
       </div>
 
-      <div className='w-1/2'>
-        <img src={Image} alt="Photo" className='main-img'/>
+      <div className='main-img w-1/2 flex items-center justify-center'>
+          <img src={Image} alt="Photo" className='rounded-full w-72 h-72'/>
       </div>
     </div>
   )
